@@ -1,2 +1,2 @@
 # QR-code-card
-Created with CodeSandbox
+First BitCamp project
